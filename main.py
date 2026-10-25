@@ -11,3 +11,4 @@ print("Сумма чисел:", summa)
 print("Результат изменения программы:", raznost)
 # Учебный пример для проверки конфликта Git.
 print("Hello from osmanov_tf branch!")
+print("Hello from conflict branch!")
