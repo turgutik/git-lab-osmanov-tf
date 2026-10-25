@@ -5,5 +5,7 @@ a = int(input("Введите первое целое число: "))
 b = int(input("Введите второе целое число: "))
 
 summa = a + b
+raznost = a - b
 
 print("Сумма чисел:", summa)
+print("Разность чисел:", raznost)
